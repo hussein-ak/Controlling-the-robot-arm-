@@ -48,3 +48,9 @@
 - roslaunch moveit_pkg demo_gazebo.launch
 
 ![image](https://github.com/user-attachments/assets/8e7151fb-1b8e-49dc-8d07-709bf279634c)
+
+
+## when using Approx IK solution if i moved the ball and pressed plan and execute the robot will move In a spontaneous way without giving him any angle only position
+
+https://github.com/user-attachments/assets/052d81e7-15cd-4d94-acc3-06f77e36fc97
+
